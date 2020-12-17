@@ -8,7 +8,9 @@ header {
   text-align: center;
 }
 
-
+img {
+  text-align: center;
+}
 
 nav a {
   padding: 0 10px;
