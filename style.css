@@ -12,7 +12,9 @@ header {
   text-align: center;
 }
 
-
+figcaption {
+  font-size: .8rem;
+}
 
 nav a {
   padding: 0 10px;
